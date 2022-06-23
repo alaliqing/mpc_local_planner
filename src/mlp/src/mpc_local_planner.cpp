@@ -1,4 +1,4 @@
-#include "include/mpc_local_planner.h"
+#include "mpc_local_planner.hpp"
 
 #include <pluginlib/class_list_macros.h>
 
