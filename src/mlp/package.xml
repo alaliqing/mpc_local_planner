@@ -8,11 +8,11 @@
 
   </description>
 
-  <maintainer email="a.pericksen@alumnos.upm.es">Adriana Padilla</maintainer>
+  <maintainer email="alaliqing@gmail.com">Jing Qin</maintainer>
 
   <license>none</license>
 
-  <author email="a.pericksen@alumnos.upm.es">Adriana Padilla</author> -->
+  <author email="alaliqing@gmail.com">Jing Qin</author> -->
 
 
   <buildtool_depend>catkin</buildtool_depend>
